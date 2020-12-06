@@ -1,2 +1,2 @@
 # cProjects
-All small c projects
+All my first year c projects
